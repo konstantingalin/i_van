@@ -13139,7 +13139,8 @@ body {
       -webkit-box-shadow: 2.934px 0.624px 7px 0px rgba(0, 0, 0, 0.11);
               box-shadow: 2.934px 0.624px 7px 0px rgba(0, 0, 0, 0.11);
       font-size: 0px;
-      padding: 22px 21px; }
+      padding: 22px 21px;
+      margin: 5px; }
 
 .s-advantages {
   text-align: center;
